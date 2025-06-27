@@ -10,7 +10,7 @@ Simon is a memory-based game where you must repeat an ever-growing sequence of c
 
 ### 🔄 Game Flow
 
-1. **Start the Game**
+1. **Start the [Game](https://vinaymadival.github.io/Simon-Game/)**
    - Press any key on your keyboard to begin the game.
    - The game starts at **Level 1**, and a random color will flash with sound.
 
